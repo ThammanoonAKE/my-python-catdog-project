@@ -1,1 +1,1 @@
-# my-python-ai-project
+# my-python-catdog-project
